@@ -15,7 +15,7 @@ Box for the Von Frey nociception test.
 - Laser cut the acrylic sheets using the [provided CAD drawings](CAD). Remove protective film.
 - Assemble all acrylic parts using painter's tape and apply acrylic cement. Remove painter's tape after drying.
 
-![](media/vonfreybox.jpg)
+![](media/VonFreyBox.jpg)
 
 ## Version History
 ### 0.0.1
