@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: "Observation box for mice"
+abstract: "Stackable boxes for observing animal behavior with individual lighting, a clear wall, and removable floor and lid."
+message: Please give proper attribution under the CC BY-NC-SA 4.0, where applicable.
+type: software
+version: 0.1.0
+date-released: 2022-05-13
+repository-code: https://github.com/leomol/observation-box
+authors:
+  - family-names: "Molina"
+    given-names: "Leonardo A."
+    email: "leonardomt@gmail.com"
+    affiliation: "University of Calgary"
+    orcid: https://orcid.org/0000-0002-6601-7185
